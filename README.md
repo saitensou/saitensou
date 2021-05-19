@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @saitensou, a independent developer
+- 👀 I’m interested in doing infrastructure stuff, like how to config different things to make a project works
+- 🌱 I’m currently learning Unity :)
+- 📫 nquiry@saitensou.com
